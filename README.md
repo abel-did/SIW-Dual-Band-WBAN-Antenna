@@ -7,6 +7,7 @@ Dual-band Substrate Integrated Waveguide (SIW) antenna for Wireless Body Area Ne
 Master's thesis project focusing on the design and simulation of a compact dual-band SIW cavity antenna for wearable applications.
 
 **Author**: Abel DIDOUH
+
 **Supervisor**: Prof. CR  
 **Institution**: IP Paris  
 **Duration**: September 2025 - March 2026
