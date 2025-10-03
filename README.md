@@ -1,4 +1,4 @@
-# SIW-Dual-Band-WBAN-Antenna
+# Dual-Band SIW Antenna for WBAN Applications
 
 Dual-band Substrate Integrated Waveguide (SIW) antenna for Wireless Body Area Networks (WBAN). Operating at ISM (2.4-2.5 GHz) and UWB (3.1-4.8 GHz) bands.
 
