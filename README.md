@@ -19,7 +19,7 @@ Master's thesis project focusing on the design and simulation of a compact dual-
 - Validate on-body performance
 
 ## Repository Structure
-
+```
 ├── 01_Literature_Review/        # Papers and notes
 ├── 02_Theoretical_Design/       # MATLAB calculations
 ├── 03_CST_Simulations/          # CST models and results
@@ -27,7 +27,7 @@ Master's thesis project focusing on the design and simulation of a compact dual-
 ├── 05_Documentation/            # Report and presentation
 ├── 06_Resources/                # Datasheets and standards
 └── 07_Deliverables/             # Final documents
-
+```
 ## Tools
 
 - MATLAB R2023a
